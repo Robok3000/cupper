@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://Robok3000.github.io/cupper/tags/another-tag/</loc>
-  </url>
-  
-  <url>
     <loc>https://Robok3000.github.io/cupper/categories/</loc>
   </url>
   
@@ -15,15 +11,15 @@
   </url>
   
   <url>
-    <loc>https://Robok3000.github.io/cupper/tags/example-tag/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Robok3000.github.io/cupper/patterns/pattern/</loc>
+    <loc>https://Robok3000.github.io/cupper/tags/humor/</loc>
   </url>
   
   <url>
     <loc>https://Robok3000.github.io/cupper/patterns/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Robok3000.github.io/cupper/patterns/pattern/</loc>
   </url>
   
   <url>
@@ -32,6 +28,10 @@
   
   <url>
     <loc>https://Robok3000.github.io/cupper/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Robok3000.github.io/cupper/tags/textos/</loc>
   </url>
   
 </urlset>
