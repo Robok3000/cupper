@@ -4,7 +4,7 @@ title = "¿Que es Texter?"
 
 Texter es un repositorio de todas aquellas ideas que vuelan por el universo y que buscan quedar plasmadas en un documento, con la esperanza de ser leídas y compartidas por el mundo entero.
 
-![dd](https://lh3.googleusercontent.com/proxy/xSqlbi3Tl8vDG-iILSvHO-bD6bWYVJ1M8xJUwPqleXlL4BxKbTcM5Xl5SVtH4fXq_-eQ6vL29JpS4onjKBOJ5LReecgspEasn2ovRBFqg10RW2UVIvxwHZm8rZyc6UdQQA)
+![dd](https://i.pinimg.com/originals/e3/27/96/e327960fed0ad543c43bfce0d24dbd29.gif)
 
 
 ## ¿Que encontraras en este lugar?
