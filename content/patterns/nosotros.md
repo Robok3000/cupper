@@ -1,5 +1,5 @@
 +++
-title = "📖 Textos"
+title = "😎 ¿Quiénes somos?"
 tags = ["textos", "humor"]
 +++
 
